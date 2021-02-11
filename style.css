@@ -1,0 +1,9 @@
+.active {
+  color: blue;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.avatar {
+  border-radius: 50%;
+}
